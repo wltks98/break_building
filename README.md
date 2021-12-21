@@ -8,4 +8,4 @@ c언어 콘솔에 구현한 간단한 게임입니다
 점프키:space bar
 부수기: f
 
-<img src="https://user-images.githubusercontent.com/79401359/146872206-405c704d-299e-4cd8-9eee-16e76a2ddc2f.png"  width="720" height="800">
+<img src="https://user-images.githubusercontent.com/79401359/146872206-405c704d-299e-4cd8-9eee-16e76a2ddc2f.png"  width="1080" height="720">
