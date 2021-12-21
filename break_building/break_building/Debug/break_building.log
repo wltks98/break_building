@@ -1,0 +1,4 @@
+﻿  break_building.cpp
+C:\Users\USER\Source\Repos\break_building\break_building\break_building.cpp(55,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\Source\Repos\break_building\break_building\break_building.cpp(55,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  break_building.vcxproj -> C:\Users\USER\Source\Repos\break_building\Debug\break_building.exe
